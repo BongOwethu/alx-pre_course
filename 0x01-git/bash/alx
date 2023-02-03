@@ -1,4 +1,2 @@
-echo
-ALX
-!/bin/bash
- echo ALXZ
+#!/bin/bash
+echo "ALX School"
